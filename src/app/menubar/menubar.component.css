@@ -1,0 +1,52 @@
+.image-css {
+  padding:19px 33px 32px 20px;
+}
+
+.equipment ul li{
+  list-style-image: url('../../assets/home.svg');
+  margin: 14px 0 2px 0;
+  font-family: Roboto;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+
+.equipment ul li:nth-child(2) {
+  list-style-image: url('../../assets/equipment.svg');
+
+}
+
+.access-list ul li {
+  font-size: 12px;
+  list-style-image: url('../../assets/equipment-copy-2.svg');
+  margin:14px 0 13px 0;
+  font-family: Roboto;
+  cursor: pointer;
+
+}
+
+.access-text{
+  margin:29px 0 13px 23px;
+  color:#acb4c6;
+}
+
+.user {
+  display: flex;
+  padding:24px;
+  flex-direction: row;
+}
+
+
+.caption {
+  font-size: 10px;
+  margin: 0;
+  color: #89969f;
+}
+
+.copy-text {
+  font-size: 10px;
+  padding:0 14px 0 22px;
+  color: #89969f;
+
+}

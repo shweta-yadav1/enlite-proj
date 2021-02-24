@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="140" viewBox="0 0 144 140">
+    <defs>
+        <filter id="oi7o6776ya" width="207.1%" height="207.1%" x="-53.6%" y="-42.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+        </filter>
+        <circle id="qwcybpnsib" cx="135.467" cy="55.533" r="4.667"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-683 -510) translate(290 263) translate(393 247)">
+                    <g stroke-width="6">
+                        <path stroke="#FE9B57" d="M56.392 55.608C25.464 55.608 0 81.072 0 112" transform="translate(14 14) matrix(1 0 0 -1 0 167.608)"/>
+                        <path stroke="#FDD74B" d="M56 112c30.928 0 56-25.072 56-56" transform="translate(14 14)"/>
+                        <path stroke="#A2DC57" d="M112 56c0-30.928-25.072-56-56-56" transform="translate(14 14)"/>
+                        <path stroke="#FE6A69" d="M56 0C25.072 0 0 25.072 0 56" transform="translate(14 14)"/>
+                    </g>
+                    <circle cx="70" cy="70" r="67" stroke-width="6"/>
+                    <g>
+                        <use fill="#000" filter="url(#oi7o6776ya)" xlink:href="#qwcybpnsib"/>
+                        <circle cx="135.467" cy="55.533" r="4.167" fill="#FFF" stroke="#000" stroke-linejoin="square"/>
+                    </g>
+                    <g>
+                        <path fill="#FFF" fill-opacity=".1" d="M0 0H58.8V58.8H0z" transform="translate(41.067 23.333)"/>
+                        <g stroke="#747F87" stroke-linecap="round" stroke-linejoin="round" stroke-width=".886">
+                            <path d="M5.254 8.604H2.126c-.653 0-1.182.53-1.182 1.181v7.086c0 .652.53 1.18 1.181 1.18h3.13c1.774 4.544 5.94 7.71 10.792 8.203.65.065 1.228-.41 1.293-1.06.003-.037.006-.075.006-.115V1.577c0-.652-.529-1.181-1.18-1.181-.04 0-.08.001-.119.006-4.851.493-9.018 3.66-10.792 8.202h-.001zm21.613 10.314c2.177-3.409 2.177-7.77 0-11.18m-4.568 9.119c1.639-2.019 1.639-4.91 0-6.928" transform="translate(41.067 23.333) translate(15 16)"/>
+                        </g>
+                    </g>
+                    <text fill="#3B3B3B" font-family="Roboto-Regular, Roboto" font-size="13">
+                        <tspan x="52.845" y="95.067">80 db</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

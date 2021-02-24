@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <linearGradient id="7rmiszfu9a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FF4652"/>
+            <stop offset="100%" stop-color="#FF434F"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-634 -149) translate(290 139) translate(190) translate(154 10)">
+                        <circle cx="8" cy="8" r="8" fill="url(#7rmiszfu9a)"/>
+                        <g fill="#FFF" transform="translate(7 3)">
+                            <rect width="2" height="7.273" rx="1"/>
+                            <circle cx="1" cy="9" r="1"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

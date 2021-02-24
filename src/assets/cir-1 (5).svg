@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="140" viewBox="0 0 140 140">
+    <defs>
+        <filter id="zhn3134ova" width="207.1%" height="207.1%" x="-53.6%" y="-42.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+        </filter>
+        <circle id="z1uq6n2e1b" cx="113.467" cy="18.533" r="4.667"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-503 -510) translate(290 263) translate(213 247)">
+                    <g stroke-width="6">
+                        <path stroke="#FE9B57" d="M56.392 55.608C25.464 55.608 0 81.072 0 112" transform="translate(14 14) matrix(1 0 0 -1 0 167.608)"/>
+                        <path stroke="#FDD74B" d="M56 112c30.928 0 56-25.072 56-56" transform="translate(14 14)"/>
+                        <path stroke="#A2DC57" d="M112 56c0-30.928-25.072-56-56-56" transform="translate(14 14)"/>
+                        <path stroke="#FE6A69" d="M56 0C25.072 0 0 25.072 0 56" transform="translate(14 14)"/>
+                    </g>
+                    <circle cx="70" cy="70" r="67" stroke-width="6"/>
+                    <g>
+                        <use fill="#000" filter="url(#zhn3134ova)" xlink:href="#z1uq6n2e1b"/>
+                        <circle cx="113.467" cy="18.533" r="4.167" fill="#FFF" stroke="#000" stroke-linejoin="square"/>
+                    </g>
+                    <g>
+                        <path fill="#FFF" fill-opacity=".1" d="M0 0H58.8V58.8H0z" transform="translate(41.067 23.333)"/>
+                        <g stroke="#747F87" stroke-linecap="round" stroke-linejoin="round" stroke-width=".899">
+                            <path d="M21.174 19.166c0 5.617-4.555 10.172-10.172 10.172C5.385 29.338.83 24.783.83 19.166.83 10.448 9.55.276 11.002.276c1.453 0 10.172 10.172 10.172 18.89zM11 23.526c-2.406-.002-4.357-1.953-4.357-4.36" transform="translate(41.067 23.333) translate(18 14)"/>
+                        </g>
+                    </g>
+                    <text fill="#3B3B3B" font-family="Roboto-Regular, Roboto" font-size="13">
+                        <tspan x="57.006" y="95.067">30%</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
